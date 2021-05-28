@@ -18,7 +18,7 @@
 
 `NPM / YARN`
 
-```shell
+```bash
 npm install @dvgis/cesium-map
 -----------------------------
 yarn add @dvgis/cesium-map
